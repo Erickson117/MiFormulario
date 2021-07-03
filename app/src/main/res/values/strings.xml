@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiFormulario</string>
+    <string name="fecha">Fecha</string>
+    <string name="edittextFecha">Fecha</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="nombre">Nombre</string>
+
+</resources>
